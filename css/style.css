@@ -1,0 +1,9 @@
+.btn:hover{
+    background-color: green;
+}
+h1{
+    font-size: 80px;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{font-size: 30px;}
